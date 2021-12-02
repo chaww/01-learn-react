@@ -4,6 +4,7 @@ import Navbar from './Navbar';
 import Input from './Input';
 import Post from './Post'
 
+// 
 let id = 1;
 
 function App() {
